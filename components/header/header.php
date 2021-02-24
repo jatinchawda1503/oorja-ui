@@ -27,13 +27,11 @@
 
      <!-- HEADER MOBILE-->
      <header id="header_mobile" class="header-mobile-default header-page hidden-lg hidden-md">
-        <div class="header-top">
+        <!-- <div class="header-top">
+            
             <div class="container">
-                <div class="logo text-center">
-                    <a href="#" title="logo"><img alt="logo-theme" src="../includes/images/logo.png" class="img-responsive"></a>
-                </div>
-            </div>
-        </div>
+            
+        </div> -->
         <div class="header-bottom">
             <div class="container">
                 <div class="inner">                
@@ -43,7 +41,10 @@
                                <i class="ion ion-android-menu"></i>
                             </button>  
                         </div>
-                        <div class="main-right">
+                        <div class="logo text-center">
+                                <a href="#" title="logo"><img alt="logo-theme" src="../includes/images/logo.png" class="img-responsive"></a>
+                            </div>
+                        <div class="main-right ">
                            <span> <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> </a> </span>
                            <span> <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i> </a> </span>
                            <span> <a href="#"><i class="fa fa-whatsapp" aria-hidden="true"></i> </a> </span>
