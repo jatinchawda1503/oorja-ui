@@ -1,3 +1,4 @@
+<?php require_once './config.php'?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,9 +15,12 @@
 </head>
 
 <body>
-<?php
+
+    <?php
     include('./components/header/header.php');
     ?>
+
+
 <?php
     include('./components/banner/banner.php');
     ?>
@@ -29,6 +33,13 @@
 <?php
     include('./components/footer/scripts.php');
     ?>
+
+<script>
+					(function() {
+						document.documentElement.className = 'js';
+						var slideshow = new CircleSlideshow(document.getElementById('slideshow'));
+					})();
+		</script>
 </body>
 
 </html>

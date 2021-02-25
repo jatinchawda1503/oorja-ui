@@ -184,3 +184,13 @@
     overflow: hidden;
 }
 }
+
+
+
+
+/* Shop */
+
+.box-img [class*="col-"]{
+    padding: 0;
+
+}
