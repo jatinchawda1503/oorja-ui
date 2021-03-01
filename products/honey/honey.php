@@ -1,4 +1,4 @@
-<?php require_once '../../config.php'?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -8,15 +8,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php
-    include('../../components/header/css.php');
+    include($_SERVER['DOCUMENT_ROOT'] .'/components/header/css.php');
     ?>
 </head>
 <body class="single-product">
     <!-- HEADER -->
     <?php
-    include('../../components/header/header.php');
+    include($_SERVER['DOCUMENT_ROOT'].'/components/header/header.php');
     ?>
     <!-- END-HEADER -->
+
+
+    <section class="procduct-single-section">
+
+  
+
     <!-- BREADCRUMB-->
     <section id="breadcrumb" class="breadcrumb-v2">
         <div class="container-fluid">
@@ -37,10 +43,10 @@
                 <div class="single-product-img">
                     <div class="pro-slide js-product-slider">
                         <div class="item">
-                            <img src="images/product/pro_01.jpg" class="img-responsive" alt="Product" title="images products">
+                            <img src="https://images.unsplash.com/photo-1612475498348-fb774b4ebf33?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fG1vY2t1cCUyMGJvdHRsZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&h=1000&q=60" class="img-responsive" alt="Product" title="images products">
                         </div>
                         <div class="item">
-                            <img src="images/product/pro_02.jpg" class="img-responsive" alt="Product" title="images products">
+                            <img src="https://images.unsplash.com/photo-1612475498348-fb774b4ebf33?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fG1vY2t1cCUyMGJvdHRsZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&h=1000&q=60" class="img-responsive" alt="Product" title="images products">
                         </div>
                         <div class="item">
                             <img src="images/product/pro_05.jpg" class="img-responsive" alt="Product" title="images products">
@@ -54,7 +60,7 @@
                     </div>
                     <div class="pro-slide-carousel js-carousel-product">
                         <div class="item">
-                            <img src="images/product/pro_01.jpg" class="img-responsive" alt="Product" title="images products">
+                            <img src="https://images.unsplash.com/photo-1612475498348-fb774b4ebf33?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fG1vY2t1cCUyMGJvdHRsZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&h=1000&q=60" class="img-responsive" alt="Product" title="images products">
                         </div>
                         <div class="item">
                             <img src="images/product/pro_02.jpg" class="img-responsive" alt="Product" title="images products">
@@ -127,14 +133,14 @@
         </div>
     </section>
    
-    
+    </section>
 
     <?php
-    include('../../components/footer/footer.php');
+    include($_SERVER['DOCUMENT_ROOT'] .'/components/footer/footer.php');
     ?>
 
 <?php
-    include('../../components/footer/scripts.php');
+    include( $_SERVER['DOCUMENT_ROOT'] . '/components/footer/scripts.php');
     ?>
 </body>
 

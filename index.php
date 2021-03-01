@@ -1,4 +1,4 @@
-<?php require_once './config.php'?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,14 +10,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <?php
-    include('./components/header/css.php');
+    include('./components/header/css.php'); 
     ?>
 </head>
 
 <body>
+    <!-- <div class="preloader">
+    <div class="preloader-inner">
+    <h1 class="preloader__container__percent"></h1>
+    </div>
+    </div> -->
 
     <?php
     include('./components/header/header.php');
+    ?>
+
+<?php
+    include('./components/banner/video-banner.php');
     ?>
 
 

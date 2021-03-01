@@ -1,4 +1,5 @@
 
+<?php require_once $_SERVER['DOCUMENT_ROOT'] .'/config.php'?>
 <!-- GOOGLE FONT -->
  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700" rel="stylesheet">
@@ -12,6 +13,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo $base ?>/includes/css/slick-theme.css">
     <link rel="stylesheet" type="text/css" href="<?php echo $base ?>/includes/css/slick.css">
     <link rel="stylesheet" type="text/css" href="<?php echo $base ?>/includes/css/homeslider.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo $base ?>/includes/css/animate.min.css"> 
     <!-- MAIN STYLE -->
     <link rel="stylesheet" href="<?php echo $base ?>/includes/css/custom-styles.css">
     <link rel="stylesheet" href="<?php echo $base ?>/includes/css/styles.css">

@@ -1,4 +1,4 @@
-<?php require_once './config.php'?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,24 +52,18 @@
                                             </div>
                                             <div class="col-lg-8 col-md-8 col-sm-12">
                                             <div class="pro-list">
-                                                <h1 class="pro-name"><a href="#">House Shape Close</a></h1>
+                                                <h1 class="pro-name"><a href="/products/honey/natural-honey.php">Natural Honey</a></h1>
                                                 <div class="pro-star">
-                                                    <div class="star-rating">
-                                                        <span class="fa fa-star" data-rating="1"></span>
-                                                        <span class="fa fa-star" data-rating="2"></span>
-                                                        <span class="fa fa-star-o" data-rating="3"></span>
-                                                        <span class="fa fa-star-o" data-rating="4"></span>
-                                                        <span class="fa fa-star-o" data-rating="5"></span>
-                                                        <input type="hidden" name="whatever1" class="rating-value" value="2.56">
-                                                    </div>
+                                                <div class="star-rating" data-rating="4.5"></div>
+                                                    
                                                 </div>
                                                 <div class="pro-price">
-                                                    <span class="old-price"><del>750.00</del></span>
-                                                    <span class="price">350.00</span>
+                                                    <span class="old-price"></span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
-                                                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.Pellentesque habitant morbi tristique senectus et netus et malesuada  teges tas. Vestibulum tortor quam, feugiat vitae,  Mauris placerat eleifend leo.
+                                                    Our natural honey comes from the nectar that honeybees collect. It is highly nutritious and laden with numerous medicinal properties. It contains various naturally occurring antioxidants, pollen, enzymes, vitamins, and minerals. We guarantee that no additional sugar exists in our natural honey. Processed supermarket honey does not offer the same benefits as organic honey.
                                                     </p>
                                                 </div>
                                                 <div class="pro-action">
@@ -84,34 +78,29 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="item col-lg-12 col-md-12 col-sm-12">
+
+                              <div class="item col-lg-12 col-md-12 col-sm-12">
                                     <div class="wrap-box-1 col-xl-12">
                                         <div class="box-img">
-                                            <div class="col-lg-4 col-md-4 col-sm-4">
+                                            <div class="col-lg-4 col-md-4 col-sm-12">
                                             <a href="#">
                                                 <img src="https://images.unsplash.com/photo-1555055926-c5778f87751e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9uZXklMjBtb2NrdXB8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=550&q=60" class="img-responsive" alt="Product" title="images products">
                                             </a>
                                             </div>
-                                            <div class="col-lg-8 col-md-8 col-sm-8">
+                                            <div class="col-lg-8 col-md-8 col-sm-12">
                                             <div class="pro-list">
-                                                <h1 class="pro-name"><a href="#">House Shape Close</a></h1>
+                                                <h1 class="pro-name"><a href="/products/honey/natural-honey.php">Natural Honey</a></h1>
                                                 <div class="pro-star">
-                                                    <div class="star-rating">
-                                                        <span class="fa fa-star" data-rating="1"></span>
-                                                        <span class="fa fa-star" data-rating="2"></span>
-                                                        <span class="fa fa-star-o" data-rating="3"></span>
-                                                        <span class="fa fa-star-o" data-rating="4"></span>
-                                                        <span class="fa fa-star-o" data-rating="5"></span>
-                                                        <input type="hidden" name="whatever1" class="rating-value" value="2.56">
-                                                    </div>
+                                                    <div class="star-rating" data-rating="4.5"></div>
+                                                    
                                                 </div>
                                                 <div class="pro-price">
-                                                    <span class="old-price"><del>750.00</del></span>
-                                                    <span class="price">350.00</span>
+                                                    <span class="old-price"></span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
-                                                        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.Pellentesque habitant morbi tristique senectus et netus et malesuada  teges tas. Vestibulum tortor quam, feugiat vitae,  Mauris placerat eleifend leo.
+                                                    Our natural honey comes from the nectar that honeybees collect. It is highly nutritious and laden with numerous medicinal properties. It contains various naturally occurring antioxidants, pollen, enzymes, vitamins, and minerals. We guarantee that no additional sugar exists in our natural honey. Processed supermarket honey does not offer the same benefits as organic honey.
                                                     </p>
                                                 </div>
                                                 <div class="pro-action">

@@ -1,16 +1,18 @@
+
+<div class="header-section">
 <!-- HEADER  DESKTOP-->
 <header id="main-header" class="header-v2 hidden-sm hidden-xs">
         <div class="container-fluid">
             <div class="inner">
                 <div class="main-menu col-lg-2 col-md-2">
                     <div id="menu-popup" class="menu-popup">
-                        <a href="#">Menu</a>
+                        
                         <div class="burger-menu"><span></span></div>
                     </div>
                 </div>
                 <div class="logo col-lg-8 col-md-8 text-center">
-                    <a class="logo-default" href="#" title="logo"><img alt="logo-theme" src="../includes/images/logo.png" class="img-responsive"></a>
-                    <a class="logo-white" href="#" title="logo"><img alt="logo-theme" src="../includes/images/logo.png" class="img-responsive"></a>
+                    <a class="logo-default" href="#" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
+                    <a class="logo-white" href="#" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
                 </div>                
                 <div class="header-right col-lg-2 col-md-2">
                             <span> <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> </a> </span>
@@ -42,7 +44,7 @@
                             </button>  
                         </div>
                         <div class="logo text-center">
-                                <a href="#" title="logo"><img alt="logo-theme" src="../includes/images/logo.png" class="img-responsive"></a>
+                                <a href="#" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
                             </div>
                         <div class="main-right ">
                            <span> <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> </a> </span>
@@ -67,7 +69,7 @@
                     <a href="/"><span>Home</span></a>
                 </li>
                 <li class="items">
-                    <a href="/about-us"><span>About Us</span></a>
+                    <a href="/about-us.php"><span>About Us</span></a>
                 </li>
                 <li class="items">
                     <a href="/Shop.php"><span>Shop</span></a>
@@ -104,4 +106,6 @@
                 </ul>
             </nav>
         </div>
+    </div>
+
     </div>

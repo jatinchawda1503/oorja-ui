@@ -300,3 +300,15 @@
         background: #FFF;
         width: 50px;
         height: 50px; }
+
+        .star-rating {
+            margin-top: 16px; }
+            .star-rating span, .star-rating .fa-star {
+              color: #e4ba4a !important;
+              font-size: 23px; }
+
+              .star-rating {
+                line-height: 32px;
+                font-size: 1.25em; }
+                .star-rating .fa-star {
+                  color: yellow; }
