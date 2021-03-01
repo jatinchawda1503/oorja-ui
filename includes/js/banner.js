@@ -105,16 +105,16 @@
 			this.navRightCtrl.addEventListener('click', function() { self._navigate('left'); });
 			this.navLeftCtrl.addEventListener('click', function() { self._navigate('right'); });
 
-			// opening items
-			this.items.forEach(function(item) {
-				item.querySelector('.action--open').addEventListener('click', function(ev) {
-					self._openContent(item);
-					ev.target.blur();
-				});
-			});
+			// // opening items
+			// this.items.forEach(function(item) {
+			// 	item.querySelector('.action--open').addEventListener('click', function(ev) {
+			// 		self._openContent(item);
+			// 		ev.target.blur();
+			// 	});
+			// });
 
 			// closing items
-			this.closeCtrl.addEventListener('click', function() { self._closeContent(); });
+			// this.closeCtrl.addEventListener('click', function() { self._closeContent(); });
 
 			// keyboard navigation events
 			document.addEventListener('keydown', function(ev) {
@@ -508,6 +508,11 @@
 			);
 		};
 
+
+	
+		
 		window.CircleSlideshow = CircleSlideshow;
 
 	})(window);
+
+	

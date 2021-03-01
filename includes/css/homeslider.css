@@ -5,12 +5,16 @@
 
 .deco--title {
 	position: absolute;
-	top: 0px;
-	right: 60px;
-	left: 60px;
-	height: 100vh;
-	/* background: url(../img/deco.svg) no-repeat center top; */
-	background-size: 100%;
+    top: 5%;
+    height: 100vh;
+    background-size: 100%;
+    font-size: 80px;
+    font-family: ui-sans-serif;
+    font-weight: 800;
+    opacity: 0.5;
+    color: gray;
+    text-align: center;
+    width: 100%;
 }
 
 .slideshow {

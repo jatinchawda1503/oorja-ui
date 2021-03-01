@@ -1239,4 +1239,23 @@ jQuery(window).load(function() {
 		});
 
 	} starRating('.star-rating');
+
+    // CircleSlideshow.prototype._classadd = function(item) {
+		
+	// 	element_slide = item.querySelector('slide');
+	// 	let next = target.nextElementSibling  ;
+	// 	let element_title = next && next.classList.contains('deco--title');
+
+	// 	console.log('1st step');
+
+	// 	if (element_slide.classList.contains('slide--current')) {
+	// 		dynamics.css(element_title, {visiblity : visible, opacity: 1});
+	// 		// item.querySelector('deco--title').css('visiblity:hidden','opacity:1');
+	// 		console.log('2nd step');
+	// 	}else{
+	// 		// item.querySelector('deco--title').css('visiblity:hidden','opacity:0');
+	// 		dynamics.css(element_title, {visiblity : hidden, opacity: 0});
+	// 	}
+
+	// }
 });

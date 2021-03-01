@@ -581,7 +581,13 @@ height: 100vh;
 
   /* banner video end  */
 
+/* Gallery  */
 
+.item-isotope .price:before{
+    content: '\f156';
+    font-family: 'FontAwesome';
+    margin-right: 2px;
+}
 
 
 /* Shop */

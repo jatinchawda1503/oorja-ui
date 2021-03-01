@@ -6,7 +6,7 @@
 			
 			<div id="slideshow" class="slideshow">
 				<div class="slide">
-                    <div class="deco deco--title"></div>
+                    <div class="deco deco--title">Natural Honey </div>
 					<h2 class="slide__title slide__title--preview">Natural Honey <span class="slide__price">₹ 200</span></h2>
 					<div class="slide__item">
 						<div class="slide__inner">
@@ -20,7 +20,7 @@
 					
 				</div>
 				<div class="slide">
-                <div class="deco deco--title"></div>
+                <div class="deco deco--title">Eucalyptus  Honey</div>
 					<h2 class="slide__title slide__title--preview">Eucalyptus  Honey<span class="slide__price">$19</span></h2>
 					<div class="slide__item">
 						<div class="slide__inner">
@@ -33,7 +33,7 @@
 					
 				</div>
 				<div class="slide">
-                <div class="deco deco--title"></div>
+                <div class="deco deco--title">Rosewood Honey </div>
 					<h2 class="slide__title slide__title--preview">Rosewood Honey <span class="slide__price">$35</span></h2>
 					<div class="slide__item">
 						<div class="slide__inner">
@@ -46,7 +46,7 @@
 					
 				</div>
 				<div class="slide">
-                <div class="deco deco--title"></div>
+                <div class="deco deco--title">Hamchal Multiflora Honey </div>
 					<h2 class="slide__title slide__title--preview">Hamchal Multiflora Honey <span class="slide__price">$29</span></h2>
 					<div class="slide__item">
 						<div class="slide__inner">
@@ -59,7 +59,7 @@
 					
 				</div>
 				<div class="slide">
-                <div class="deco deco--title"></div>
+                <div class="deco deco--title">Karanj Honey</div>
 					<h2 class="slide__title slide__title--preview">Karanj Honey<span class="slide__price">$59</span></h2>
 					<div class="slide__item">
 						<div class="slide__inner">
@@ -72,7 +72,7 @@
 				
 				</div>
 				<div class="slide">
-                <div class="deco deco--title"></div>
+                <div class="deco deco--title">Coffee Honey</div>
 					<h2 class="slide__title slide__title--preview">Coffee Honey <span class="slide__price">$39</span></h2>
 					<div class="slide__item">
 						<div class="slide__inner">

@@ -34,6 +34,10 @@
     include('./components/banner/banner.php');
     ?>
 
+<?php
+    include('./components/gallery/gallery.php');
+    ?>
+
 
 <?php
     include('./components/footer/footer.php');
