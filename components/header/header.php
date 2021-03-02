@@ -11,8 +11,8 @@
                     </div>
                 </div>
                 <div class="logo col-lg-8 col-md-8 text-center">
-                    <a class="logo-default" href="#" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
-                    <a class="logo-white" href="#" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
+                    <a class="logo-default" href="/" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
+                    <a class="logo-white" href="/" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
                 </div>                
                 <div class="header-right col-lg-2 col-md-2">
                             <span> <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> </a> </span>
@@ -44,7 +44,7 @@
                             </button>  
                         </div>
                         <div class="logo text-center">
-                                <a href="#" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
+                                <a href="/" title="logo"><img alt="logo-theme" src="<?php echo $base?>/includes/images/logo.png" class="img-responsive"></a>
                             </div>
                         <div class="main-right ">
                            <span> <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i> </a> </span>
@@ -72,7 +72,7 @@
                     <a href="/about-us.php"><span>About Us</span></a>
                 </li>
                 <li class="items">
-                    <a href="/Shop.php"><span>Shop</span></a>
+                    <a href="/shop.php"><span>Shop</span></a>
                 </li>
                 <li class="items">
                     <a href="/contact-us.php"><span>Contact Us</span></a>
