@@ -81,12 +81,61 @@
                     <div class="pro-star">
                     <div class="star-rating" data-rating="4.5"></div>                               
                     </div>
+                    <!-- <div class="pro-price">
+                    <span class="old-price"></span>
+                    <span class="price">200</span>
+                    </div> -->
+                    
+                <div class="tab02 p-t-80">
+
+                    <!-- Tab panes -->
+				    <div class="tab-content">
+					<!-- - -->
+					<div class="tab-pane fade active in" id="100" role="tabpanel" aria-expanded="true">
                     <div class="pro-price">
                     <span class="old-price"></span>
                     <span class="price">200</span>
                     </div>
                     
+					</div>
+
+					<!-- - -->
+					<div class="tab-pane fade" id="200" role="tabpanel" aria-expanded="false">
+                    <div class="pro-price">
+                    <span class="old-price"></span>
+                    <span class="price">300</span>
+                    </div>
                     
+					</div>
+
+					<!-- - -->
+					<div class="tab-pane fade" id="500" role="tabpanel" aria-expanded="false">
+                    <div class="pro-price">
+                    <span class="old-price"></span>
+                    <span class="price">500</span>
+                    </div>
+                    
+					</div>
+				</div>
+
+
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+					<li class="nav-item">
+						<a class="nav-link active" data-toggle="tab" href="#100" role="tab" aria-expanded="true">100gm</a>
+					</li>
+
+					<li class="nav-item">
+						<a class="nav-link" data-toggle="tab" href="#200" role="tab" aria-expanded="false">200gm</a>
+					</li>
+
+					<li class="nav-item">
+						<a class="nav-link" data-toggle="tab" href="#500" role="tab" aria-expanded="false">500gm</a>
+					</li>
+				</ul>
+
+				
+			</div>
                     <div class="pro-action"> 
                         <div class="btn-theme btn-medium addcart">
                             <a href="#">Buy on <i class="fa fa-whatsapp" aria-hidden="true"></i></a>
