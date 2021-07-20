@@ -96,7 +96,7 @@
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -135,7 +135,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -172,7 +172,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">65</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -209,7 +209,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -247,7 +247,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -285,7 +285,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -323,7 +323,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -361,7 +361,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -399,7 +399,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">60</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -437,7 +437,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -474,7 +474,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">70</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -512,7 +512,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">65</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -533,7 +533,43 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                 </div>
 
 
-                                
+                                <div class="item col-lg-12 col-md-12 col-sm-12">
+                                    <div class="wrap-box-1 col-xl-12">
+                                        <div class="box-img">
+                                            <div class="col-lg-4 col-md-4 col-sm-12">
+                                            <a href="#">
+                                            <img src="<?php echo $base?>/includes/images/product/khs.jpeg" class="img-responsive" alt="Product" title="images products">
+                                            </a>
+                                            </div>
+                                            <div class="col-lg-8 col-md-8 col-sm-12">
+                                            <div class="pro-list">
+                                                <h1 class="pro-name"><a href="/products/honey/Honey-Kashmiri.php">Honey-Kashmiri</a></h1>
+                                                <div class="pro-star">
+                                                    <div class="star-rating" data-rating="4.5"></div>
+                                                    
+                                                </div>
+                                                <div class="pro-price">
+                                                    <span class="old-price"></span>
+                                                    <span class="price">200</span>
+                                                </div>
+                                                <div class="pro-desc">
+                                                    <p>
+                                                    Our natural honey comes from the nectar that honeybees collect. It is highly nutritious and laden with numerous medicinal properties. It contains various naturally occurring antioxidants, pollen, enzymes, vitamins, and minerals. We guarantee that no additional sugar exists in our natural honey. Processed supermarket honey does not offer the same benefits as organic honey.
+                                                    </p>
+                                                </div>
+                                                <div class="pro-action">
+                                                    <span class="btn-theme btn-medium addcart">
+                                                        <a href="http://wa.me/918871000005">Buy</a>
+                                                    </span>
+                                                </div>
+                                              
+                                            </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
 
                                 <div class="item col-lg-12 col-md-12 col-sm-12">
                                     <div class="wrap-box-1 col-xl-12">
@@ -552,7 +588,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -590,7 +626,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">65</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -628,7 +664,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -666,7 +702,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">65</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -704,7 +740,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -742,7 +778,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -780,7 +816,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">55</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>
@@ -818,7 +854,7 @@ Processed supermarket honey does not offer the same health benefits as raw honey
                                                 </div>
                                                 <div class="pro-price">
                                                     <span class="old-price"></span>
-                                                    <span class="price">110</span>
+                                                    <span class="price">200</span>
                                                 </div>
                                                 <div class="pro-desc">
                                                     <p>

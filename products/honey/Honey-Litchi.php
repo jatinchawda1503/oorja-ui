@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,7 +25,7 @@
                     <ul>
                         <li>Shop</li>
                         <li>Honey</li>
-                        <li><a href="/products/honey/Natural-Honey.php">Natural Honey</a></li>                    
+                        <li><a href="/products/honey/Honey-Litchi.php">Honey-Litchi</a></li>                    
                     </ul>                 
                 </div>
             </div>
@@ -39,37 +37,29 @@
                 <div class="single-product-img">
                     <div class="pro-slide js-product-slider">
                         <div class="item">
-                        <img src="<?php echo $base?>/includes/images/product/hmhs.jpeg" class="img-responsive" alt="Product" title="images products">
+                        <img src="<?php echo $base?>/includes/images/product/lhs.jpeg" class="img-responsive" alt="Product" title="images products">
                         </div>
                         <div class="item">
-                         <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">
+                            <img src="https://images.unsplash.com/photo-1612475498348-fb774b4ebf33?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fG1vY2t1cCUyMGJvdHRsZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&h=1000&q=60" class="img-responsive" alt="Product" title="images products">
                         </div>
-                        <div class="item">
-                         <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">   
-                                             </div>
-                        <div class="item">
-                         <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">          
-                        </div>
-                        <div class="item">
-                         <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">  
-                        </div>
+                        
                     </div>
                     <div class="pro-slide-carousel js-carousel-product">
                         <div class="item">
-                            <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">
+                            <img src="https://images.unsplash.com/photo-1612475498348-fb774b4ebf33?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fG1vY2t1cCUyMGJvdHRsZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&h=1000&q=60" class="img-responsive" alt="Product" title="images products">
                         </div>
-                    
                         <div class="item">
-                            <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">
+                            <img src="<?php echo $base?>/includes/images/product/2.png" class="img-responsive" alt="Product" title="images products">
                         </div>
+                        
                     </div>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="single-product-infor">
                     <div class="pro-title">
-                        <h1>Natural Honey</h1>
-                    </div>
+                        <h1>Honey-Litchi</h1>
+                        </div>
                     <div class="pro-star">
                     <div class="star-rating" data-rating="4.5"></div>                               
                     </div>
@@ -83,7 +73,7 @@
                         <div class="tab-pane fade active in" id="100" role="tabpanel" aria-expanded="true">
                         <div class="pro-price">
                         <span class="old-price"></span>
-                        <span class="price">200</span>
+                        <span class="price">55</span>
                         </div>
 
                         </div>
@@ -92,7 +82,7 @@
                         <div class="tab-pane fade" id="200" role="tabpanel" aria-expanded="false">
                         <div class="pro-price">
                         <span class="old-price"></span>
-                        <span class="price">300</span>
+                        <span class="price">120</span>
                         </div>
 
                         </div>
@@ -105,22 +95,44 @@
                         </div>
 
                         </div>
+
+                        <!-- - -->
+                        <div class="tab-pane fade" id="360" role="tabpanel" aria-expanded="false">
+                        <div class="pro-price">
+                        <span class="old-price"></span>
+                        <span class="price">360</span>
+                        </div>
+
+                        </div>
                         </div>
 
 
                         <!-- Nav tabs -->
                         <ul class="nav nav-tabs " role="tablist">
-                        
+                        <li class="nav-item active">
+                            <a class="nav-link active" data-toggle="tab" href="#100" role="tab" aria-expanded="true">30gm</a>
+                        </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#500" role="tab" aria-expanded="false">500gm</a>
+                            <a class="nav-link" data-toggle="tab" href="#200" role="tab" aria-expanded="false">125gm</a>
                         </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#500" role="tab" aria-expanded="false">250gm</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#360" role="tab" aria-expanded="false">500gm</a>
+                        </li>
+
+                        
                         </ul>
 
 
-                    </div>
 
-                        <!-- Pricing Tabs ENd -->
+                    </div>
+                    
+                    
                     
                     
                     <div class="pro-action"> 
@@ -136,16 +148,16 @@
                             <i class="icon-caret"></i>
                         </div>
                         <div class="drop-details">
-                        <p>Our natural honey comes from the nectar that honeybees collect. It is highly nutritious and laden with numerous medicinal properties. It contains various naturally occurring antioxidants, pollen, enzymes, vitamins, and minerals. We guarantee that no additional sugar exists in our natural honey. Processed supermarket honey does not offer the same benefits as organic honey.</p>
+                        <p>Our Litchi honey comes from selected orchards during the fruit’s flowering season. Crafted for Litchi aficionados who want a tinge of the fruit in everything they eat. The distinctive taste it provides makes it the ideal addition to breakfast food. Do not confuse it with Litchi flavored honey. Our honey is completely raw, unprocessed, and unfiltered.</p>
                         
-                        <p>Natural honey provides some unique benefits that include: </p>
+                        <p> Apart from enriching your food with a fruity surprise, litchi honey has a plethora of health benefits </p>
 
                         <ul class="sub-details">
-                           <li> Packed with Antioxidants. </li> 
-                           <li> May Lower Cholesterol </li> 
-                           <li> Could Have Cancer-Fighting Properties </li> 
-                           <li> Can Help Kill off Bacteria. </li> 
-                           <li> Promotes weight loss. </li> 
+                           <li> Helpful in solving digestive issues like indigestion and loss of appetite.</li> 
+                           <li> Contains adequate amounts of the polyphenolic and pro-anthocyanidins compound. </li> 
+                           <li> Exceptional nutritional value with health benefits. </li> 
+                           <li> Contains antioxidants and anti-cancer potentials. </li> 
+                           <li> Useful in treating throat problems like sore throat, cold, cough, etc. </li>
                         </ul>
 
 

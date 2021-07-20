@@ -58,7 +58,15 @@
                         <div class="item">
                             <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">
                         </div>
-                    
+                        <div class="item">
+                            <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">
+                        </div>
+                        <div class="item">
+                            <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">
+                        </div>
                         <div class="item">
                             <img src="<?php echo $base?>/includes/images/product/nhs.jpeg" class="img-responsive" alt="Product" title="images products">
                         </div>
@@ -101,7 +109,7 @@
                         <div class="tab-pane fade" id="500" role="tabpanel" aria-expanded="false">
                         <div class="pro-price">
                         <span class="old-price"></span>
-                        <span class="price">200</span>
+                        <span class="price">500</span>
                         </div>
 
                         </div>
@@ -110,7 +118,13 @@
 
                         <!-- Nav tabs -->
                         <ul class="nav nav-tabs " role="tablist">
-                        
+                        <li class="nav-item active">
+                            <a class="nav-link active" data-toggle="tab" href="#100" role="tab" aria-expanded="true">100gm</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#200" role="tab" aria-expanded="false">200gm</a>
+                        </li>
 
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="tab" href="#500" role="tab" aria-expanded="false">500gm</a>
